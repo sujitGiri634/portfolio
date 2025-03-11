@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: #040a12;
+}
+
+nav{
+    background-color: #ECDFCC;
+}
+
+hr{
+    color: azure;   
+}
+
+.nav-link{
+    color: #232324;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 8rem;
+    font-family: sans-serif;
+    color: #fff;
+    padding-top: 10rem;
+}
+
+.tag-line{
+    color: #fff;
+    font-family: serif;
+    font-size: xx-large;
+}
+
+.horizontal-line{
+    margin-left: 6rem;
+    margin-top: 15px;
+}
+
+.about-list{
+    padding: 2rem 6rem; 
+    margin-left:10rem;
+}
+
+.about-item{
+    background-color: #040a12;
+    border: 0px;
+    color: #f9c67a;
+    font-size: 1.25rem;
+}
+
+.database-item, .languages-item, .experience-title,.framework-item, .libraries-item{
+    color: #faa82c;
+}
